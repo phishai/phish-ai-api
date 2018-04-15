@@ -24,6 +24,7 @@ Useful resources
 * Raw API Documentation: https://app.phish.ai/ (under documentation, "Thanks PyPi for not allowing minimum-cash sign")
 * Official website: https://www.phish.ai
 * Blog: https://www.phish.ai/blog
+* Chrome Extension: https://github.com/phishai/phish-protect
 
 Installation
 ------------
