@@ -16,7 +16,7 @@ The Engine is in beta and doesn't protect all brands yet. we make the database b
 
 Privacy Policy
 ------------
-The full privacy policy is [here](https://www.phish.ai/phish-ai-privacy-policy/). By using the Public API you agree to our Privacy Policy and allow us to share your submission with the security community. If you want a Private API Key please contact us at info@phish.ai.
+The full privacy policy is at: https://www.phish.ai/phish-ai-privacy-policy/. By using the Public API you agree to our Privacy Policy and allow us to share your submission with the security community. If you want a Private API Key please contact us at info@phish.ai.
 
 Useful resources
 ------------
