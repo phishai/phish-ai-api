@@ -12,7 +12,7 @@ The API surf to a given website takes a screenshots of the website and then comp
 The Engine is in beta and doesn't protect all brands yet. we make the database bigger every day, if you believe your brand is not in our database and you want us to crawl it, just drop me a line at yp@phish.ai
 
 ### Privacy Policy
-The fulll privacy policy is [here](https://www.phish.ai/phish-ai-privacy-policy/). By using the Public API you agree to our Privacy Policy and allow us to share your submission with the security community. If you want a Private API Key please contact us at info@phish.ai.
+The full privacy policy is [here](https://www.phish.ai/phish-ai-privacy-policy/). By using the Public API you agree to our Privacy Policy and allow us to share your submission with the security community. If you want a Private API Key please contact us at info@phish.ai.
 
 ### Useful resources
 * [UI Version](https://app.phish.ai)

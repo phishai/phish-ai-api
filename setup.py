@@ -9,13 +9,13 @@ def readme():
 
 
 setup(name='phish-ai-api',
-      version='1.0',
+      version='1.2',
       description='Phish.AI API wrapper',
       long_description=readme(),
       long_description_content_type='text/markdown',
       author='Yevgeny Pats',
       author_email='yp@phish.ai',
-      url='https://github.com/phishai/',
+      url='https://github.com/phishai/phish-ai-api',
       packages=['phish_ai_api'],
       classifiers=['Intended Audience :: Developers',
                    'Natural Language :: English',
