@@ -1,18 +1,18 @@
 #!/usr/bin/env python
 
 from setuptools import setup
+from codecs import open
 
 
 def readme():
-    with open('README.md', 'r') as f:
+    with open('README.rst', 'r', 'utf-8') as f:
         return f.read()
 
 
 setup(name='phish-ai-api',
-      version='1.2',
+      version='1.7',
       description='Phish.AI API wrapper',
       long_description=readme(),
-      long_description_content_type='text/markdown',
       author='Yevgeny Pats',
       author_email='yp@phish.ai',
       url='https://github.com/phishai/phish-ai-api',
