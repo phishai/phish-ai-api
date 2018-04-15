@@ -10,7 +10,7 @@ Official python API for Phish.AI public and private API to detect zero-day phish
 How it Works (TLDR)
 -------------------
 Essentially we have a very big computer vision database of known websites and their legitimate domains.
-The API surf to a given website takes a screenshots of the website and then compare it with our database and if we detect that it is similar to a known website but hosted we classify it as malicious and classify the targeted brand (which website this site tries to mimic).
+The API surf to a given website takes a screenshots of the website and then compare it with our database and if we detect that it is similar to a known website but hosted on a different domain we classify it as malicious and classify the targeted brand (which website this site tries to mimic).
 
 The Engine is in beta and doesn't protect all brands yet. we make the database bigger every day, if you believe your brand is not in our database and you want us to crawl it, just drop me a line at yp@phish.ai
 
