@@ -26,6 +26,10 @@ Useful resources
 * Blog: https://www.phish.ai/blog
 * Chrome Extension: https://github.com/phishai/phish-protect
 
+Community Libraries
+-------------------
+* NPM - https://www.npmjs.com/package/phishai (Not Official)
+
 Installation
 ------------
 
