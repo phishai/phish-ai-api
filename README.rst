@@ -29,6 +29,7 @@ Useful resources
 Community Libraries
 -------------------
 * NPM - https://www.npmjs.com/package/phishai (Not Official)
+* C# - https://github.com/AgentBurgundy/AntiPhish.NET (Not Official)
 
 Installation
 ------------
